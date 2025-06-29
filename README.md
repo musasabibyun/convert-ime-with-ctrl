@@ -13,8 +13,8 @@ Ctrl キーの空打ちで IME を OFF/ON する AutoHotKey スクリプトで�
 
 ## 使い方
 
-1. `convert-ime-with-ctl.ahk` と `IME.ahk` を同じフォルダに配置します。
-2. `convert-ime-with-ctl.ahk` を AutoHotkey で実行します。
+1. [convert-ime-with-ctrl v1.0.0](https://github.com/user-attachments/files/20966252/convert-ime-with-ctrl.zip) から `convert-ime-with-ctrl.zip` をダウンロードして解凍
+2. `convert-ime-with-ctrl.exe` を好きな場所に起き，起動
 
 終了する場合はタスクトレイのアイコンを右クリックし、「終了」をクリックしてください。
 
