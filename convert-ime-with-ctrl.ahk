@@ -1,5 +1,6 @@
 ; Ctrl キーの空打ちで IME の OFF/ON を切り替える
-
+;
+; Ctrl キーを押している間に他のキーを打つと通常の Alt キーとして動作
 
 #Include IME.ahk
 
